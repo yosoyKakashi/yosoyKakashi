@@ -1,16 +1,12 @@
-### Hi there 👋
+Hola👋, Mi nombre es Humberto
+Soy un Ingeniero En Sistemas Computacionales
+---Me interesa mucho sobre el desarrollo de las paginas web, pero también me gusta mucho el tema de los negocios. ----Actualmente estoy aprendiendo PHP, y creando negocios para generar dinero.
 
-<!--
-**yosoyKakashi/yosoyKakashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭Actualmente estoy trabajando en en mi propia empresa
+🌱actualmente estoy aprendiendo php
+👯Busco colaborar en telmex
+🤔Busco ayuda con el diseño de las paginas
+💬Pregúntame sobre Criptos, Negocios, Consejos, Redes
+📫Cómo contactarme: Twitter: @yosoyhumbe
+😄Pronombres: KAKASHI
+⚡Dato curioso: Me gusta el Freestyler
